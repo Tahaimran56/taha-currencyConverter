@@ -1,0 +1,1 @@
+ currency converter is a program or tool that converts the value of one currency into the equivalent value of another currency. It's a handy tool for individuals, businesses, and financial institutions to quickly and accurately determine the exchange rate between different currencies.
